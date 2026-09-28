@@ -1,0 +1,5 @@
+dpapick3==0.7.1
+impacket==0.13.0
+pycryptodome==3.23.0
+rich==15.0.0
+tabulate==0.10.0
